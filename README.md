@@ -3,7 +3,6 @@
 # -Build-a-Blog-Writing-Crew-with-CrewAI
 Learn to build a multi-agent AI blog writing system with CrewAI. Create researcher, writer, and editor agents that collaborate to produce polished content.
 
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
 
 # Build a Blog Writing Crew with CrewAI
 
